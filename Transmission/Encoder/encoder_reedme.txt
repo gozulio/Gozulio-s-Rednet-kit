@@ -1,0 +1,1 @@
+The rnencoder.lua program takes 8 arguements and outputs them to the computers bundled redstone connection.

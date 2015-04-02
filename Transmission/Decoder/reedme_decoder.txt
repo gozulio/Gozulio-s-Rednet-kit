@@ -1,0 +1,1 @@
+the rndecoder.lua program when called will wait for an input on the bundled redstone connection.
