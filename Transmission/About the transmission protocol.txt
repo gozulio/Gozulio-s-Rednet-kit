@@ -1,0 +1,7 @@
+The transmission prtocol functions as fallows...
+
+when the encoder outputs to a bundled connection, it uses 10 wires. 8 of which are for data.
+the first 8 wires (white, orange, magenta, light blue, yellow, lime, pink, and grey.) are the data bus.
+the last 2 wires (red, and black.) are control wires.
+the remaining wires are free for use, but may be used up in future iterations of this code.
+if you want to you can go through the code and extend the databus to use 14 wires. but i recomended using 8.
